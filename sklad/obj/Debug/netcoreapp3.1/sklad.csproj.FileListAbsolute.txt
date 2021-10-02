@@ -1,0 +1,13 @@
+C:\Users\Predator\Desktop\act\sklad\bin\Debug\netcoreapp3.1\sklad.exe
+C:\Users\Predator\Desktop\act\sklad\bin\Debug\netcoreapp3.1\sklad.deps.json
+C:\Users\Predator\Desktop\act\sklad\bin\Debug\netcoreapp3.1\sklad.runtimeconfig.json
+C:\Users\Predator\Desktop\act\sklad\bin\Debug\netcoreapp3.1\sklad.runtimeconfig.dev.json
+C:\Users\Predator\Desktop\act\sklad\bin\Debug\netcoreapp3.1\sklad.dll
+C:\Users\Predator\Desktop\act\sklad\bin\Debug\netcoreapp3.1\sklad.pdb
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.csprojAssemblyReference.cache
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.AssemblyInfoInputs.cache
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.AssemblyInfo.cs
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.dll
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.pdb
+C:\Users\Predator\Desktop\act\sklad\obj\Debug\netcoreapp3.1\sklad.genruntimeconfig.cache
