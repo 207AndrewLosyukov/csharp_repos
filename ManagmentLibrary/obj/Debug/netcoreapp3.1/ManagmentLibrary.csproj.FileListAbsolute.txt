@@ -1,8 +1,0 @@
-C:\Users\Predator\source\repos\ManagmentLibrary\bin\Debug\netcoreapp3.1\ManagmentLibrary.deps.json
-C:\Users\Predator\source\repos\ManagmentLibrary\bin\Debug\netcoreapp3.1\ManagmentLibrary.dll
-C:\Users\Predator\source\repos\ManagmentLibrary\bin\Debug\netcoreapp3.1\ManagmentLibrary.pdb
-C:\Users\Predator\source\repos\ManagmentLibrary\obj\Debug\netcoreapp3.1\ManagmentLibrary.AssemblyInfoInputs.cache
-C:\Users\Predator\source\repos\ManagmentLibrary\obj\Debug\netcoreapp3.1\ManagmentLibrary.AssemblyInfo.cs
-C:\Users\Predator\source\repos\ManagmentLibrary\obj\Debug\netcoreapp3.1\ManagmentLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Predator\source\repos\ManagmentLibrary\obj\Debug\netcoreapp3.1\ManagmentLibrary.dll
-C:\Users\Predator\source\repos\ManagmentLibrary\obj\Debug\netcoreapp3.1\ManagmentLibrary.pdb
